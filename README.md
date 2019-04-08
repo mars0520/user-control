@@ -1,13 +1,13 @@
 # user-control
 一个简单的spring boot用户系统
 主要功能有：用户登录和注册，我d的个人信息，修改密码，用户管理，角色管理，权限管理
-首先是项目结构截图
+首先是项目结构截图<Br/>
 ![image](https://github.com/mars0520/user-control/blob/master/q8.jpg)
 登录截图
 ![image](https://github.com/mars0520/user-control/blob/master/q1.jpg)
 注册截图
 ![image](https://github.com/mars0520/user-control/blob/master/q7.jpg)
-个人资料
+个人资料<Br/>
 ![image](https://github.com/mars0520/user-control/blob/master/q3.jpg)
 修改密码
 ![image](https://github.com/mars0520/user-control/blob/master/q4.jpg)
